@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="spinner_prompt">where in australia</string>
+    <string name="by_clicking_submit_i_agree_to_the_terms_conditions"><![CDATA[By clicking submit I agree to the Terms & Conditions]]></string>
+</resources>
